@@ -42,6 +42,21 @@ nonce + 카운터 로 만들어진다는 것.
 약간 바꿔서 생각하면, nonce는 바뀌지만 계속해서 동일한 평문을 암호화 한다고 볼수도 있디.
 그럼 잘만 하면 테이블을 만들어 볼 수도 있는거 아닐까? 블록암호 방식으로 바뀌니까 말이다. 
 
+94	56	de	d7	37	c8	48	a3	cc	35	e5	70	0b	69	c2	a1
+86	77	0b	e9	0f	47	7	34	50	70	2c	21	70	ad	a1	64
+ae	e2	d5	d9	95	ae	ef	49	c6	cc	b2	b8	7e	ef	9f	60
+															
+f4	b9	43	60	56	50	8b	97	ff	a9	a2	1a	6a	ab	fb	c2
+94	93	b6	ea	4d	37	f5	eb	bb	7	df	62	7d	c8	e9	4e
+ad	a7	49	4e	35	94	43	6	eb	99	6f	85	c4	9b	f3	6f
+															
+96	ec	35	aa	19	d1	8e	f5	8a	f7	52	93	fd	d0	22	be
+fd	95	a1	99	7a	30	84	7e	ef	8e	74	b5	f9	50	5	d4
+d1	84	43	a4	bd	19	39	a7	c4	33	85	f0	3f	c7	88	6c
+															
+31	35	27	bd	09	23	c3	0c	00	94	b6	6	f3	6b	ea	5a
+b1	df	8b	72	fd	e9	0f	4e	78	5e	2f	c8	37	41	be	ac
+53	a6	15	86	b2	35	b2	24	29	73	bb	bd	66	5f	b8	d7
 
 
 
